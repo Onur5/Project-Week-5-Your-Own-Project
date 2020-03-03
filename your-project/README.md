@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Are we still exploiting Africa?
+*[Onur Taskin]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics June 2019]*
 
 ## Content
 - [Project Description](#project-description)
